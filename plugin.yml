@@ -1,0 +1,9 @@
+name: Fly
+author: Fin/getQueryString
+version: 1.0
+main: fly.flymain
+commands:
+  fly:
+    description: Aendert den Flugmodus.
+    aliases:
+    - f
